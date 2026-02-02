@@ -1,3 +1,4 @@
+import "dotenv/config";
 import { ethers } from "ethers";
 
 const MOLTBOOK_API = "https://www.moltbook.com/api/v1";
